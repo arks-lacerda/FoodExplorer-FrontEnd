@@ -13,7 +13,7 @@ Clone the repository:
 Front-end:
 
 ```bash
-  git clone
+  git clone git@github.com:arks-lacerda/FoodExplorer-FrontEnd.git
 ```
 
 Navigate to the folder:
@@ -58,7 +58,7 @@ Front-end:
 
 ## Deploy 💻
 
-[ under construction ]()
+[ App Online ](https://64d2d0200fc1a10254428940--lucky-sunflower-2cc8ef.netlify.app/)
 
 ## 🤫 ...Password manager
 
