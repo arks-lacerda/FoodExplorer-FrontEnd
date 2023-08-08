@@ -60,7 +60,7 @@ Front-end:
 
 [ App Online ](https://64d2d0200fc1a10254428940--lucky-sunflower-2cc8ef.netlify.app/)
 
-## 🤫 ...Password manager
+## Password manager
 
 Usuário: admin@admin.com
 <br>
