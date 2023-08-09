@@ -1,5 +1,3 @@
-![logo]()
-
 # ✏️ About
 
 Discover an exclusive portal dedicated to food industry establishments! Start by creating your account, and upon logging in, step into a world of carefully categorized products showcased in a carousel, specially designed to enhance your user experience.
